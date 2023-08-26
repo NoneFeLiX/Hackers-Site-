@@ -1,0 +1,16 @@
+alert("Добро пожаловать на Хакерский Сайт!")
+alert("Не бойся... Тебе тут понравиться :)")
+
+function hack() {
+   window.location = 'https://t.me/Fenix18';
+}
+
+function shop() {
+   window.location = 'https://t.me/@FenixLandBot';
+}
+
+
+
+
+
+

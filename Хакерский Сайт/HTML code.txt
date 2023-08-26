@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Хакерский Канал</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <script src="js/main.js"></script>
+  <h1>Вступи в наш</h1>
+  <h2>Хакерский канал</h2>
+<div class="block">
+  <p>Также у нас есть Хакерский магазин. В нём есть всё для хакинга: абузы, манула, утилиты, взломки и многое другое. Подпишись! </p>
+</div>  
+<div onclick="hack()">
+  <button class="custom-btn btn-8"><span>Хакерский Канал</span></button>
+</div>
+
+</body>
+</html>
